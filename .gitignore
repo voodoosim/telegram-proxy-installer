@@ -1,0 +1,13 @@
+AppData/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+.vscode/
+*.exe
+*.dll
+*.sys
+NTUSER*
+ntuser*
